@@ -7,14 +7,14 @@ const projectsData = [
     description:
       'A context-aware AI chatbot built to simplify Śrīmad-Bhāgavatam verses using Srila Prabhupada’s purports. Integrated with Vedabase.io and designed a user-friendly web interface to help readers understand scripture meaningfully.',
     tags: ['Python', 'NLP', 'REST API', 'Web Dev', 'Vedabase.io'],
-    githubLink: 'https://github.com/Nehaadak',
+    githubLink: 'https://github.com/Nehaadak/geeta-verse-explainer.git',
   },
   {
     title: 'Portfolio Website',
     description:
       'A personal portfolio website to showcase my skills and projects. Built with React and designed with a modern dark theme.',
     tags: ['React', 'CSS', 'JavaScript', 'UI/UX'],
-    githubLink: '#',
+    githubLink: 'https://github.com/Nehaadak/portfolio.git',
   },
  
   {
